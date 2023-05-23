@@ -22,3 +22,5 @@ and<b>Enjoy Your Game!!</b></p>
 <li>press keydown 'Z' to undo a move</li>
 <li>press keydown 'R' to restart the game</li>
 </ol>
+
+<p>For this project, I used the PyCharm Community Edition 2022.3.3 and installed the pygame package. Remember to also add the __init__.py file</p>
