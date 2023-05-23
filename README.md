@@ -1,4 +1,4 @@
-# chess
+# CHESS AI
 <h1>Brief History</h1>
 <p>Growing up, my dad would buy us board games which helped boost our thinking capabilities, slowly started with drafts but later 
 on my older brothers introduced me to chess.
