@@ -1,5 +1,5 @@
 # chess
-lets create my favorite game
+<h1>lets create my favorite game</h1>
 Growing up, my dad would buy us board games which helped boost our thinking capabilities, slowly started with drafts but later 
 on my older brothers introduced me to chess.
 I figured out it was more intruiging compared to the other games and I grew fond of it. I think it highly contributed to my love
