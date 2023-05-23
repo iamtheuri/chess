@@ -15,7 +15,7 @@ is would only take changing the boolean values in line 54 and 55 of the ChessMai
          player_two = False  # if a human is playing white, then this will be True, else False -->
     
 <p>After configuring it to your desired settings, whether it's you versus AI, AI vs AI, or you vs a real player, run the ChessMain.py file 
-and</p><h6>Enjoy Your Game!!</h6>
+and<h4>Enjoy Your Game!!</h4></p>
 
 <h2>CheatSheet:</h2> 
 <ol>
